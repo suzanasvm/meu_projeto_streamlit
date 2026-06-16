@@ -10,7 +10,7 @@ df = pd.DataFrame({
 })
 
 # Cabeçalho
-st.title("Painel de Vendas")
+st.title("Dashboard Suzana")
 st.write("Resumo dos últimos 6 meses")
 
 # Exibe o dataframe
